@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #dfdfdf;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#brandLogo {
+    padding-left: 5px;
+}
+
+.page-footer {
+    font-size: 1.2em;
+}
+
+nav ul a {
+    font-size: 1.2em;
+}
